@@ -9,4 +9,6 @@ Fast API is a high-performance, open-source Python web framework used to develop
 
 To try our the demo script, please follow the steps:
 
-1) git clone 
+1) git clone https://github.com/allenwsh82/Inference_Endpoint_QnA.git
+2) pip install -r requirements.txt
+3) 
