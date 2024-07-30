@@ -11,4 +11,17 @@ To try our the demo script, please follow the steps:
 
 1) git clone https://github.com/allenwsh82/Inference_Endpoint_QnA.git
 2) pip install -r requirements.txt
-3) 
+3) Create a virtual environment for this project:
+   python -m venv endpoint_env
+5) Activate your virtual environment by the following command:
+   source endpoint_env/bin/activate
+7) Run the script: ./start_server_sealion_7b.sh
+8) There are two ways run test the 'text-generation' workload :
+   a) By Endppint_Sealion_7B_Inference.ipynb
+
+   ![Inference_1](https://github.com/user-attachments/assets/dc89041d-6915-457e-815f-0b50094259a4)
+
+
+   b) By inference_endpoint_sealion.py
+  
+   ![Inference_2](https://github.com/user-attachments/assets/e7a1f8e5-8534-49d8-b17b-4e44d8404d96)
