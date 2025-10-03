@@ -6,6 +6,21 @@
 
 Fast API is a high-performance, open-source Python web framework used to develop web APIs with the hint types of Python 3.6 or higher. It enables data types to be validated even within JSON requests. It is based on standards such as JSON Schema, OAuth 2.0 and OpenAPI.
 
+<br/>
+
+![fastAPI](https://github.com/user-attachments/assets/10955176-73ee-49b7-8668-97ec5312923b)
+
+<br/>
+
+This version shows the full flow:
+- 🧑‍💻 Client sends an HTTP request (GET, POST, etc.)
+- ⚡ FastAPI App receives and routes the request
+- 🧠 Pydantic Models validate and parse data
+- 🖥️ Server hosts the FastAPI application
+- 🗄️ Database stores and retrieves persistent data
+- 🔁 Response is returned to the client in JSON forma
+
+
 To try our the demo script, please follow the steps:
 
 1) Clone this repo:
