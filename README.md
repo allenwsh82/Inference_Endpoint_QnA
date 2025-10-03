@@ -33,10 +33,13 @@ pip install -r requirements.txt
 ./start_server_sealion_7b.sh
 ```
 6) There are two ways run test the 'text-generation' workload :
+<br/>
+
    a) By Endppint_Sealion_7B_Inference.ipynb
 
    ![Inference_1](https://github.com/user-attachments/assets/dc89041d-6915-457e-815f-0b50094259a4)
 
+<br/>
 
    b) By inference_endpoint_sealion.py
   
